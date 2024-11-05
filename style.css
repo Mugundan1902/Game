@@ -1,0 +1,85 @@
+body{
+    background-image: url('https://www.xtrafondos.com/wallpapers/call-of-duty-mobile-4009.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.container{
+    border:2px solid white;
+    width: 30%;
+    margin-top:100px;
+    padding: 30px;
+    margin-left:20vh;
+    background-color: rgba(255, 255, 255, 0.149);
+    border-radius: 50px;
+    box-shadow: 0px 5px 10px 5px rgba(0, 0, 0, 0.763);
+    text-align: center;
+}
+::placeholder{
+    color:white;
+}
+h1{
+    color: #ffffff;
+}
+
+input{
+    width: 80%;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 30px;
+    border:2px solid white;
+    color:white;
+        background-color: rgba(245, 245, 245, 0.215);
+}
+.box1 ,.box2{
+    display:flex;
+}
+.box3{
+    display:flex;
+}
+.bo{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+i{
+    margin:10px;
+    padding-top: 10px;
+
+}
+.lo{
+    color:white;
+    background-color: black;
+}
+button{
+    width: 40%;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 30px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgba(245, 245, 245, 0.215);
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+}
+.bt1{
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 30px;border:none;
+    display: flex;
+    justify-content: space-around;
+
+    margin: 10px;
+    padding: 2px;
+    width: 60%;
+    margin:auto;
+    margin-top: 10px;;
+}
+ 
+.bt1 img{
+    width:50px;
+}
